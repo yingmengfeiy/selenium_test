@@ -1,0 +1,4 @@
+2020-03-31 22:43:18,453 - test01.py - setUp - INFO - --start test --
+2020-03-31 22:43:31,513 - test01.py - tearDown - INFO - --test end--
+2020-03-31 22:44:03,325 - test01.py - setUp - INFO - --start test --
+2020-03-31 22:44:11,506 - test01.py - tearDown - INFO - --test end--

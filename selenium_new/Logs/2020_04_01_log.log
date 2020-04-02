@@ -1,0 +1,49 @@
+[2020-04-01 19:47:16,663] base.py->findele line:14 [INFO] 通过id定位，元素是notice01
+[2020-04-01 19:47:16,663] base.py->findele line:14 [INFO] 通过id定位，元素是notice01
+[2020-04-01 19:47:18,914] base.py->findele line:14 [INFO] 通过id定位，元素是notice08
+[2020-04-01 19:47:18,914] base.py->findele line:14 [INFO] 通过id定位，元素是notice08
+[2020-04-01 19:47:21,043] base.py->findele line:14 [INFO] 通过css selector定位，元素是#searchtype > li.current
+[2020-04-01 19:47:21,043] base.py->findele line:14 [INFO] 通过css selector定位，元素是#searchtype > li.current
+[2020-04-01 19:47:21,169] base.py->findele line:14 [INFO] 通过id定位，元素是searchbtn
+[2020-04-01 19:47:21,169] base.py->findele line:14 [INFO] 通过id定位，元素是searchbtn
+[2020-04-01 19:47:28,065] base.py->findele line:14 [INFO] 通过xpath定位，元素是//*[@id='searchlsit']/div[1]/div[1]/div[6]/div[1]/a
+[2020-04-01 19:47:28,065] base.py->findele line:14 [INFO] 通过xpath定位，元素是//*[@id='searchlsit']/div[1]/div[1]/div[6]/div[1]/a
+[2020-04-01 19:47:28,065] base.py->findele line:14 [INFO] 通过xpath定位，元素是//*[@id='searchlsit']/div[1]/div[1]/div[6]/div[1]/a
+[2020-04-01 19:47:34,381] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 19:47:34,381] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 19:47:34,381] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 19:47:34,381] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 19:49:04,180] base.py->findele line:14 [INFO] 通过id定位，元素是notice01
+[2020-04-01 19:49:04,180] base.py->findele line:14 [INFO] 通过id定位，元素是notice01
+[2020-04-01 19:49:06,426] base.py->findele line:14 [INFO] 通过id定位，元素是notice08
+[2020-04-01 19:49:06,426] base.py->findele line:14 [INFO] 通过id定位，元素是notice08
+[2020-04-01 19:49:08,546] base.py->findele line:14 [INFO] 通过css selector定位，元素是#searchtype > li.current
+[2020-04-01 19:49:08,546] base.py->findele line:14 [INFO] 通过css selector定位，元素是#searchtype > li.current
+[2020-04-01 19:49:08,622] base.py->findele line:14 [INFO] 通过id定位，元素是searchbtn
+[2020-04-01 19:49:08,622] base.py->findele line:14 [INFO] 通过id定位，元素是searchbtn
+[2020-04-01 19:49:13,091] test_train.py->test_02 line:33 [INFO] 用例通过
+[2020-04-01 19:49:13,091] test_train.py->test_02 line:33 [INFO] 用例通过
+[2020-04-01 19:49:15,092] base.py->findele line:14 [INFO] 通过xpath定位，元素是//*[@id='searchlsit']/div[1]/div[1]/div[6]/div[1]/a
+[2020-04-01 19:49:15,092] base.py->findele line:14 [INFO] 通过xpath定位，元素是//*[@id='searchlsit']/div[1]/div[1]/div[6]/div[1]/a
+[2020-04-01 19:49:15,092] base.py->findele line:14 [INFO] 通过xpath定位，元素是//*[@id='searchlsit']/div[1]/div[1]/div[6]/div[1]/a
+[2020-04-01 19:49:21,044] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 19:49:21,044] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 19:49:21,044] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 19:49:21,044] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 20:01:34,446] base.py->findele line:14 [INFO] 通过id定位，元素是notice01
+[2020-04-01 20:01:34,446] base.py->findele line:14 [INFO] 通过id定位，元素是notice01
+[2020-04-01 20:01:36,771] base.py->findele line:14 [INFO] 通过id定位，元素是notice08
+[2020-04-01 20:01:36,771] base.py->findele line:14 [INFO] 通过id定位，元素是notice08
+[2020-04-01 20:01:38,860] base.py->findele line:14 [INFO] 通过css selector定位，元素是#searchtype > li.current
+[2020-04-01 20:01:38,860] base.py->findele line:14 [INFO] 通过css selector定位，元素是#searchtype > li.current
+[2020-04-01 20:01:38,951] base.py->findele line:14 [INFO] 通过id定位，元素是searchbtn
+[2020-04-01 20:01:38,951] base.py->findele line:14 [INFO] 通过id定位，元素是searchbtn
+[2020-04-01 20:01:43,606] test_train.py->test_02 line:33 [INFO] 用例通过
+[2020-04-01 20:01:43,606] test_train.py->test_02 line:33 [INFO] 用例通过
+[2020-04-01 20:01:45,607] base.py->findele line:14 [INFO] 通过xpath定位，元素是//*[@id='searchlsit']/div[1]/div[1]/div[6]/div[1]/a
+[2020-04-01 20:01:45,607] base.py->findele line:14 [INFO] 通过xpath定位，元素是//*[@id='searchlsit']/div[1]/div[1]/div[6]/div[1]/a
+[2020-04-01 20:01:45,607] base.py->findele line:14 [INFO] 通过xpath定位，元素是//*[@id='searchlsit']/div[1]/div[1]/div[6]/div[1]/a
+[2020-04-01 20:01:51,438] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 20:01:51,438] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 20:01:51,438] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
+[2020-04-01 20:01:51,438] base.py->findele line:14 [INFO] 通过css selector定位，元素是#pasglistdiv > div > ul > li:nth-child(2) > input
